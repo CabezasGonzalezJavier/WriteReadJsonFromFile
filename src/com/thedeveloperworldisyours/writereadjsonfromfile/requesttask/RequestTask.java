@@ -17,6 +17,7 @@ import android.os.AsyncTask;
 import android.util.Log;
 
 import com.thedeveloperworldisyours.writereadjsonfromfile.MainActivity;
+import com.thedeveloperworldisyours.writereadjsonfromfile.R;
 import com.thedeveloperworldisyours.writereadjsonfromfile.utils.Utils;
 
 public class RequestTask extends AsyncTask<String, String, String>{
@@ -31,6 +32,7 @@ public class RequestTask extends AsyncTask<String, String, String>{
 	
     @Override
 	protected void onPreExecute() {
+    	mDialog.setMessage(mActivity.getString(R.string.request_task_loading));
     	mDialog.show();
 		super.onPreExecute();
 	}

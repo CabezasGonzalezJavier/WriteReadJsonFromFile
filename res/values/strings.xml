@@ -7,5 +7,8 @@
     <string name="activity_main_get_save">Get and Save info</string>
     <string name="activity_main_show">Show info</string>
     <string name="activity_main_no_atress">Actor or Actress not found</string>
+    <string name="activity_main_enter_atress">Enter actor or atress</string>
+    <string name="request_task_loading">Loading&#8230;</string>
+    
 
 </resources>

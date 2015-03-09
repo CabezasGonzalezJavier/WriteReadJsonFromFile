@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:hint="@string/activity_main_enter_atress"
         android:inputType="text"/>
 
     <Button

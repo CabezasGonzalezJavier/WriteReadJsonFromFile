@@ -1817,11 +1817,13 @@ containing a value of this type.
          */
         public static final int abc_toolbar_collapse_description=0x7f0a0004;
         public static final int action_clean=0x7f0a0011;
+        public static final int activity_main_enter_atress=0x7f0a0016;
         public static final int activity_main_get_save=0x7f0a0013;
         public static final int activity_main_no_atress=0x7f0a0015;
         public static final int activity_main_show=0x7f0a0014;
         public static final int app_name=0x7f0a0010;
         public static final int no_internet=0x7f0a0012;
+        public static final int request_task_loading=0x7f0a0017;
     }
     public static final class style {
         /** 
