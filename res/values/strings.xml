@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WriteReadJsonFromFile</string>
+    <string name="action_clean">Clean</string>
+    <string name="no_internet">Error of internet,\nyou must check your connection</string>
+    <string name="activity_main_get_save">Get and Save info</string>
+    <string name="activity_main_show">Show info</string>
+    <string name="activity_main_no_atress">Actor or Actress not found</string>
+
+</resources>
